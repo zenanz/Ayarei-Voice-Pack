@@ -11,8 +11,9 @@ Voice pack dedicated to Ayarei, the greatest Vulpera of all time.
 
 ## 安装指南
 
-1. 点击右上角绿色的 ''code'' 按钮并点击 ''Download ZIP''. \
-<img src=".github/instruction_1.png" width="300"/> 
+1. 点击右上角绿色的 ''code'' 按钮并点击 ''Download ZIP''. 
+
+    <img src=".github/instruction_1.png" width="300"/> 
 
 2. 解压下载到的 _.zip_ 文件. 打开解压出来的文件夹并将其中的子文件夹 _Ayarei_ 移动到魔兽世界客户端根目录下的 _Interface_ 文件夹中
 3. 打开 _WA.txt_, 将其中的字符串导入至游戏内的 _WeakAura_ 插件.
