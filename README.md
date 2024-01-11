@@ -23,6 +23,7 @@ Voice pack dedicated to Ayarei, the greatest Vulpera of all time.
 - Adjustable low health alert when lower than 25% (default) max HP
 - Crowd Control alert
 - Death alert
+- Knockback alert
 
 ## TODO
 This project is still under active development. Contribution from you hamburgers are critical!

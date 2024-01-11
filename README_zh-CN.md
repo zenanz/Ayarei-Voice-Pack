@@ -23,6 +23,7 @@ Voice pack dedicated to Ayarei, the greatest Vulpera of all time.
 - 可调节的低血量警报，默认为低于25%最大生命值时触发
 - 群体控制警报
 - 死亡播报 （怪叫）
+- 击飞警报 （为什么在副本里还可以踢人的呀？）
 
 ## 待办事项
 此项目仍在积极开发中，汉堡们的积极贡献至关重要！
